@@ -1,0 +1,14 @@
+C:\Users\MINEDUCYT\Desktop\Clase #14\clase14-pe-Cintia-Alvardo\bin\Debug\net7.0\clase14-pe-Cintia-Alvardo.exe
+C:\Users\MINEDUCYT\Desktop\Clase #14\clase14-pe-Cintia-Alvardo\bin\Debug\net7.0\clase14-pe-Cintia-Alvardo.deps.json
+C:\Users\MINEDUCYT\Desktop\Clase #14\clase14-pe-Cintia-Alvardo\bin\Debug\net7.0\clase14-pe-Cintia-Alvardo.runtimeconfig.json
+C:\Users\MINEDUCYT\Desktop\Clase #14\clase14-pe-Cintia-Alvardo\bin\Debug\net7.0\clase14-pe-Cintia-Alvardo.dll
+C:\Users\MINEDUCYT\Desktop\Clase #14\clase14-pe-Cintia-Alvardo\bin\Debug\net7.0\clase14-pe-Cintia-Alvardo.pdb
+C:\Users\MINEDUCYT\Desktop\Clase #14\clase14-pe-Cintia-Alvardo\obj\Debug\net7.0\clase14-pe-Cintia-Alvardo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\Desktop\Clase #14\clase14-pe-Cintia-Alvardo\obj\Debug\net7.0\clase14-pe-Cintia-Alvardo.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\Desktop\Clase #14\clase14-pe-Cintia-Alvardo\obj\Debug\net7.0\clase14-pe-Cintia-Alvardo.AssemblyInfo.cs
+C:\Users\MINEDUCYT\Desktop\Clase #14\clase14-pe-Cintia-Alvardo\obj\Debug\net7.0\clase14-pe-Cintia-Alvardo.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\Clase #14\clase14-pe-Cintia-Alvardo\obj\Debug\net7.0\clase14-pe-Cintia-Alvardo.dll
+C:\Users\MINEDUCYT\Desktop\Clase #14\clase14-pe-Cintia-Alvardo\obj\Debug\net7.0\refint\clase14-pe-Cintia-Alvardo.dll
+C:\Users\MINEDUCYT\Desktop\Clase #14\clase14-pe-Cintia-Alvardo\obj\Debug\net7.0\clase14-pe-Cintia-Alvardo.pdb
+C:\Users\MINEDUCYT\Desktop\Clase #14\clase14-pe-Cintia-Alvardo\obj\Debug\net7.0\clase14-pe-Cintia-Alvardo.genruntimeconfig.cache
+C:\Users\MINEDUCYT\Desktop\Clase #14\clase14-pe-Cintia-Alvardo\obj\Debug\net7.0\ref\clase14-pe-Cintia-Alvardo.dll
